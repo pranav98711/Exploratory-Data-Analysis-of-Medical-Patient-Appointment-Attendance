@@ -1,5 +1,5 @@
 
-# Exploratory Data Analysis (EDA) on Medical Appointments Data
+# Exploratory Data Analysis (EDA) on Medical Appointments Data (Page development in progess)
 
 ## Overview
 This project performs an exploratory data analysis (EDA) on medical appointments to understand the factors that influence patient attendance. The dataset contains information about patients, their scheduled appointments, medical conditions, and whether they showed up for their appointments.
