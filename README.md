@@ -74,9 +74,6 @@ The analysis provides valuable insights into patient attendance behavior. Some i
 - Analyze external factors like weather and transportation.
 - Implement and test new patient reminder strategies.
 
-## 🚀 GitHub Repository
-[Repository Link](#) *(Add the actual repository link here)*
 
-Feel free to fork, contribute, and explore further! 🔍
 
 
